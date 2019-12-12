@@ -1,0 +1,12 @@
+﻿{
+    "name": "Tests",
+    "references": [
+        "BinarySearchAssemblyDef"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
